@@ -1,7 +1,7 @@
-# Assignment3: File reading using getline() function part1
+# Assignment4: File reading using getline() function part2
  
 ## Overview
-This assignment involves file reading in C++ to read and process triangle data from a file provided by user. `getline` function is used which allows accepting and reading single and multiple line strings from the input stream
+This assignment involves file reading in C++ to read and process triangle data from a file provided by user. `getline` function is used which allows accepting and reading single and multiple line strings from the input stream. `istringstream ` is utilized for string parsing,
 
 ## Code path
 
