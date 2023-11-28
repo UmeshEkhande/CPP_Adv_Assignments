@@ -2,7 +2,7 @@
  
 ## Overview
  
-This assignment involves the function declaration of a class named `Reader` in the `/Ex1/headers/Reader.h` file. The class is designed to read the stl file.
+This assignment involves the function declaration in a class named `Reader` in the `/Ex1/headers/Reader.h` file. The class is designed to read the stl file.
  
 ## Class Definition
  
