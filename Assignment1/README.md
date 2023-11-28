@@ -1,4 +1,4 @@
-# Assignment 1 - Point3D Class
+# Assignment 1 - Reader Class
  
 ## Overview
  
